@@ -18,6 +18,7 @@ screen.grid(row=0,column=0,padx=5,pady=10,columnspan=7,sticky=W+E)
 screen.config(bg="white",fg="black",justify="right")
 
 """ teclado"""
+"""teclado"""
 i=0
 def get_number(n):
     global i
